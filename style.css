@@ -1,0 +1,37 @@
+.center-text {
+    text-align: center;
+}
+
+@font-face {
+    font-family: VCR;
+    src: url(VCR_OSD_MONO_1.001.ttf);
+}
+
+h1 {
+    color: red;
+    font-family: VCR;
+    text-align: center;
+}
+
+html {
+    background-color: black;
+    color: white;
+    font-family: VCR;
+    text-align: center;
+}
+
+.bordered {
+    border-style: solid;
+    border-color:white;
+    border-width:thick;
+}
+
+.button {
+    border: solid,white,thick;
+    font-family: VCR;
+    font-size:x-large;
+    text-align: center;
+    color: white;
+    background-color: black;
+    margin:5px;
+}
