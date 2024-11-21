@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: VCR;
-    src: url(VCR_OSD_MONO_1.001.ttf);
+    src: url(/assets/VCR_OSD_MONO_1.001.ttf);
 }
 
 h1 {
@@ -50,7 +50,6 @@ html {
     display:grid;
     justify-items: center;
     grid-template-columns: 1fr 2fr 1fr;
-    
     gap: 3em;
 }
 
