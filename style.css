@@ -34,4 +34,35 @@ html {
     color: white;
     background-color: black;
     margin:5px;
+
+}
+
+.pButton {
+    border: solid,white,thick;
+    font-family: VCR;
+    font-size:x-large;
+    text-align: center;
+    color: black;
+    background-color: yellow;
+    margin:5px;
+}
+
+.button:hover {
+    border: solid,grey,thick;
+    font-family: VCR;
+    font-size:x-large;
+    text-align: center;
+    color: white;
+    background-color: black;
+    margin:5px;
+}
+
+.pButton:hover {
+    border: solid,white,thick;
+    font-family: VCR;
+    font-size:x-large;
+    text-align: center;
+    color: black;
+    background-color: white;
+    margin:5px;
 }
