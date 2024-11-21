@@ -36,6 +36,16 @@ html {
     margin:5px;
 }
 
+.button:hover {
+    border: solid,grey,thick;
+    font-family: VCR;
+    font-size:x-large;
+    text-align: center;
+    color: white;
+    background-color: black;
+    margin:5px;
+}
+
 .grid-container {
     display:grid;
     justify-items: center;
@@ -49,9 +59,5 @@ html {
     justify-items: center;
     grid-template-columns: 1fr 1fr;
     gap: 2em;
-
-}
-
-.grid-item {
 
 }
